@@ -12,7 +12,7 @@ func TestImpuesto(t *testing.T) {
 	salario2 := 70000.0
 	salario3 := 170000.0
 	impuestoEsperado1 := 0.0
-	impuestoEsperado2:= 11900.0
+	impuestoEsperado2 := 11900.0
 	impuestoEsperado3 := 45900.0
 
 	// Se ejecuta el test
